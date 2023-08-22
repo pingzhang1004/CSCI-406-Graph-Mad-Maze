@@ -1,4 +1,6 @@
 # CSCI-406-Graph-Mad-Maze
+#### Using Python
+#### The course project code is not allowed to be published online
 
 ### The tricky part is how to model the maze problem as a graph.
 ![image](https://github.com/pingzhang1004/CSCI-406-Graph-Mad-Maze/blob/main/MadMaze_workflow.png)
