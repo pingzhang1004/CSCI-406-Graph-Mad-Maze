@@ -1,6 +1,7 @@
 # CSCI-406-Graph-Mad-Maze
-##### * Using Python programming language 
-##### * The course project code is not allowed to be published online，but I am happy to share the ideas and results of my algorithm!
+###### * Using Python programming language 
+###### * The course project code is not allowed to be published online，but I am happy to share the ideas and results of my algorithm!
+###### * I'd be happy to provide source code for interviews!
 
 
 ### The tricky part is how to model the maze problem as a graph.
